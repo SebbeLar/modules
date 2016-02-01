@@ -1,0 +1,17 @@
+{
+  "name": "requirejs",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sebastian Larsson <sebberlarsson@hotmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "requirejs": "~2.1.22",
+    "jquery": "~2.2.0",
+    "jquery-ui": "~1.11.4",
+    "lodash": "~4.0.1"
+  }
+}
